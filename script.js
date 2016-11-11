@@ -1,3 +1,4 @@
+/*滑过点击切换*/
 function $(id){
 	return typeof id==='string'?document.getElementById(id):id;
 }
